@@ -7,6 +7,10 @@
 + sklearn
 + matplotlib-3.8.2
 
+## Download
+Downloading GloVe pre-trained word vector from :https://nlp.stanford.edu/data/glove.twitter.27B.zip
+
+
 ## Usage
 
 ### To train models
